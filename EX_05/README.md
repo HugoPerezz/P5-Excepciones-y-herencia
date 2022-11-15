@@ -1,0 +1,1 @@
+Crea un programa que calcule la media de 3 numeros y en caso de introducir un valor que no sea numerico, aparezca un mensaje indicando el error.
